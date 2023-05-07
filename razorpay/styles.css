@@ -1,0 +1,10 @@
+div{
+    display: flex;
+    flex-flow: column wrap;
+    width: 25vw;
+}
+.pay{
+    background-color: aquamarine;
+    padding: 4vh 7vw;
+    font-size: 25px;
+  }
